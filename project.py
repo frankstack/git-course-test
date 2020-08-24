@@ -6,3 +6,6 @@ Created on Mon Aug 24 11:11:26 2020
 """
 
 print("hello world")
+
+variable = 12
+print(variable)
